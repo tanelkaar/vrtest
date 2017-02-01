@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>kaart</name>
+		<Placemark>
+			<name>Matk</name>
+			<styleUrl>#line-FF5252-3-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>26.9678736,58.1478357,0.0 26.9739676,58.1436229,0.0 26.9769716,58.1448913,0.0 26.976435,58.1462212,0.0 26.9756142,58.1462536,0.0 26.9745788,58.1461048,0.0 26.9734092,58.1465319,0.0 26.9726526,58.1467977,0.0 26.9745569,58.1475843,0.0 26.9745943,58.1480313,0.0 26.9751495,58.1483,0.0 26.9752339,58.1486949,0.0 26.9757475,58.1488632,0.0 26.9789874,58.1476736,0.0 26.9802318,58.1476276,0.0 26.9837506,58.1485093,0.0 26.9845124,58.1493239,0.0 26.9845017,58.1502064,0.0 26.9833323,58.1509756,0.0 26.9834771,58.1520057,0.0 26.984373,58.1529225,0.0 26.9838581,58.1540597,0.0 26.9850169,58.1550303,0.0 26.9895662,58.1561367,0.0 26.99153,58.158638,0.0 26.9939661,58.1582866,0.0 26.9953234,58.1586479,0.0 26.9969811,58.1584659,0.0 26.996737,58.1575995,0.0 26.9967505,58.1566651,0.0 26.9954041,58.155317,0.0 26.9957716,58.1546543,0.0 26.9965683,58.1538557,0.0 26.9964449,58.151715,0.0 26.9950771,58.1517483,0.0 26.994825,58.151555,0.0 26.9959837,58.1492084,0.0 26.9972924,58.1488051,0.0 27.0002213,58.1476296,0.0 27.0005751,58.1464994,0.0 27.0035583,58.1454465,0.0 27.0045026,58.1454302,0.0 27.0051894,58.145278,0.0 27.0065413,58.1441859,0.0 27.0075928,58.1437505,0.0 27.0110689,58.1408539,0.0 27.0169473,58.1379825,0.0 27.0197153,58.1393418,0.0 27.0217752,58.1385036,0.0 27.0231485,58.1390699,0.0 27.0244789,58.1397269,0.0 27.0268393,58.1401573,0.0 27.0288992,58.1414258,0.0 27.0303583,58.1407915,0.0 27.0324183,58.1406556,0.0 27.0334053,58.1399307,0.0 27.0353365,58.1398175,0.0 27.0358944,58.1393871,0.0 27.0347357,58.1385263,0.0 27.034049,58.1377334,0.0 27.0347786,58.1372576,0.0 27.0376968,58.1364874,0.0 27.040143,58.1362382,0.0 27.0413017,58.1364421,0.0 27.041688,58.1367592,0.0 27.0441341,58.1358983,0.0 27.0461512,58.1354679,0.0 27.0470095,58.1355812,0.0 27.0485115,58.1341312,0.0 27.0480824,58.132953,0.0 27.0470953,58.132228,0.0 27.0446491,58.1320694,0.0 27.0415163,58.1319788,0.0 27.0403147,58.1316615,0.0 27.0406151,58.1304833,0.0 27.0420742,58.1287839,0.0 27.0490479,58.1274809,0.0 27.0494127,58.1265405,0.0 27.0468378,58.1258606,0.0 27.0443058,58.1258153,0.0 27.0437479,58.1247275,0.0 27.0444775,58.1233904,0.0 27.0470095,58.1227332,0.0 27.0519876,58.1204441,0.0 27.0520306,58.1191975,0.0 27.0507002,58.1193561,0.0 27.0502281,58.1190388,0.0 27.0516872,58.1184042,0.0 27.0517302,58.1177242,0.0 27.0511723,58.1165908,0.0 27.0508289,58.1159108,0.0 27.0514297,58.1149134,0.0 27.0529318,58.1143013,0.0 27.0525026,58.1131225,0.0 27.0506573,58.112057,0.0 27.0488977,58.1106968,0.0 27.0480394,58.1099486,0.0 27.0494127,58.1096765,0.0 27.0515585,58.1093364,0.0 27.050786,58.1082708,0.0 27.0537472,58.1083162,0.0 27.0560619,58.1082709,0.0 27.0569283,58.1085542,0.0 27.0584357,58.1087385,0.0 27.060045,58.1084848,0.0 27.0607102,58.1083814,0.0 27.0642507,58.1085826,0.0 27.0661926,58.1088207,0.0 27.0665574,58.1087583,0.0 27.0666111,58.1084352,0.0 27.0675887,58.1079867,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Valgemetsa
+</name>
+			<styleUrl>#icon-1532-3949AB-nodesc</styleUrl>
+			<Point>
+				<coordinates>26.9683242,58.1468165,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Valgemetsa tee
+</name>
+			<description><![CDATA[L 04.02.2017 10:11	Taevaskoja	10:25	-> Valgemetsa tee]]></description>
+			<styleUrl>#icon-1532-01579B</styleUrl>
+			<Point>
+				<coordinates>26.9492483,58.1423319,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Valgemetsa
+</name>
+			<description><![CDATA[L 04.02.2016 10:12 Tartu – 10:43 Valgemetsa]]></description>
+			<styleUrl>#icon-1716-F57C00</styleUrl>
+			<Point>
+				<coordinates>26.9674015,58.148198,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Allikukalju allikas
+</name>
+			<styleUrl>#icon-1892-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>26.9766498,58.14488,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sügava lume alternatiivmarsruut
+</name>
+			<description><![CDATA[Sügava lume korral lõikame siit üle põldude]]></description>
+			<styleUrl>#line-880E4F-4</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>26.9769716,58.1448913,0.0 26.9969273,58.1456388,0.0 26.9978285,58.1455935,0.0 26.9986868,58.144846,0.0 27.0006609,58.1448007,0.0 27.0035583,58.1454465,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Laulja Kalmer Tennossaare (1928-2004) sünnikoht</name>
+			<styleUrl>#icon-1610-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>27.01237960000003,58.1421464,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kiidjärve vesiveski</name>
+			<styleUrl>#icon-1598-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>27.01800000000003,58.14060000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RMK Hatiku lõkkekoht
+</name>
+			<styleUrl>#icon-1764-FF5252-nodesc</styleUrl>
+			<Point>
+				<coordinates>27.0201257,58.1390275,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RMK Sõnajala lõkkekoht</name>
+			<styleUrl>#icon-1764-FF5252-nodesc</styleUrl>
+			<Point>
+				<coordinates>27.02884549999999,58.14219589999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kiidjärve bussipeatus
+</name>
+			<description><![CDATA[12:25	Tartu bussijaam	13:17	Kiidjärve raudteejaam. Hilistele ärkajatele, kes hommikul rongist maha jäid.]]></description>
+			<styleUrl>#icon-1532-01579B</styleUrl>
+			<Point>
+				<coordinates>26.9944382,58.1290784,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jõelaev Lonny</name>
+			<styleUrl>#icon-1622-01579B-nodesc</styleUrl>
+			<Point>
+				<coordinates>27.051473999999985,58.115119,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saesaare hüdroelektrijaam</name>
+			<styleUrl>#icon-1892-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>27.052099999999996,58.11439999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Emaläte</name>
+			<styleUrl>#icon-1892-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>27.0470095,58.1103879,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Väike taevaskoda
+</name>
+			<styleUrl>#icon-1596-558B2F-nodesc</styleUrl>
+			<Point>
+				<coordinates>27.0473206,58.1098976,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Suur Taevaskoda</name>
+			<styleUrl>#icon-1596-558B2F-nodesc</styleUrl>
+			<Point>
+				<coordinates>27.049345899999935,58.1079628,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Metsavendade punker
+</name>
+			<styleUrl>#icon-1596-558B2F-nodesc</styleUrl>
+			<Point>
+				<coordinates>27.0502281,58.1051759,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Otteni Sild</name>
+			<styleUrl>#icon-1598-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>27.067588699999988,58.1079867,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Otteni metsamaja
+</name>
+			<styleUrl>#icon-1603-C2185B-nodesc</styleUrl>
+			<Point>
+				<coordinates>27.066493,58.1079591,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Taevaskoja
+</name>
+			<description><![CDATA[L 04.02.2017 10:11 Taevaskoja 10:25 -> Valgemetsa tee<br>P 05.02.2017 10:11	Taevaskoja	-> 11:20 Tartu<br>Lühim tee ottenist 2.6km ~30m jalutamist.<br>Laupäeval viimane buss Tartusse tagasi 20:10	Taevaskoja	21:15	Tartu bussijaam]]></description>
+			<styleUrl>#icon-1532-3949AB</styleUrl>
+			<Point>
+				<coordinates>27.0310879,58.1012189,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Taevaskoja
+</name>
+			<description><![CDATA[17:18	Tartu rongijaam	17:56	Taevaskoja<br>Hilistele saabujatele, kes ei ihale pikalt matkata, aga saunast ära ei ütle.]]></description>
+			<styleUrl>#icon-1716-F57C00</styleUrl>
+			<Point>
+				<coordinates>27.0286417,58.1012416,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1532-01579B'>
+			<IconStyle>
+				<color>ff9B5701</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1532-3949AB'>
+			<IconStyle>
+				<color>ffAB4939</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1532-3949AB-nodesc'>
+			<IconStyle>
+				<color>ffAB4939</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1596-558B2F-nodesc'>
+			<IconStyle>
+				<color>ff2F8B55</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1598-0288D1-nodesc'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1603-C2185B-nodesc'>
+			<IconStyle>
+				<color>ff5B18C2</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1610-0288D1-nodesc'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1622-01579B-nodesc'>
+			<IconStyle>
+				<color>ff9B5701</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1716-F57C00'>
+			<IconStyle>
+				<color>ff007CF5</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1764-FF5252-nodesc'>
+			<IconStyle>
+				<color>ff5252FF</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1892-0288D1-nodesc'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-880E4F-4-normal'>
+			<LineStyle>
+				<color>ff4F0E88</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-880E4F-4-highlight'>
+			<LineStyle>
+				<color>ff4F0E88</color>
+				<width>6.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-880E4F-4'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-880E4F-4-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-880E4F-4-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FF5252-3-nodesc-normal'>
+			<LineStyle>
+				<color>ff5252FF</color>
+				<width>3</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-FF5252-3-nodesc-highlight'>
+			<LineStyle>
+				<color>ff5252FF</color>
+				<width>5.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-FF5252-3-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FF5252-3-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FF5252-3-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
